@@ -1,0 +1,22 @@
+.container{
+    color: white;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caption{
+    margin: 20px;
+}
+.box{
+    background-color: black;
+}
+
+.image{
+    text-align: center;
+   
+}
+#quotation{
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
